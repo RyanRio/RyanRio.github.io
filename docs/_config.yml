@@ -29,6 +29,26 @@ theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
+collections:
+  game-engines:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "game-engines"
+    values:
+      layout: "game_engines"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

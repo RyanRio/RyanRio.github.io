@@ -1,0 +1,16 @@
+- name: Home
+  show: true
+  link: /
+- name: About
+  show: true
+  link: /about/
+- name: Blog
+  show: true
+  link: /blog.html
+- name: GameEngines
+  show: true
+  link: /game_engines.html
+- name: Assignment1Docs
+  show: false
+  link: /game-engines-docs/Assignment1_Docs/index.html
+         

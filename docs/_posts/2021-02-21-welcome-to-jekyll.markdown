@@ -1,5 +1,5 @@
 ---
-layout: default
+author: Ryan Mitchell
 title:  "Welcome to Jekyll!"
 date:   2021-02-21 21:24:33 -0800
 categories: jekyll update

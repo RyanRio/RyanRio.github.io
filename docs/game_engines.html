@@ -1,0 +1,12 @@
+---
+title: GameEngines Assignments
+---
+<h1>Assignments</h1>
+
+<ul>
+    {% for assignment in site.game-engines %}
+    <li>
+        <h2><a href="{{ assignment.url }}">{{ assignment.project_name }}</a></h2>
+    </li>
+    {% endfor %}
+</ul>
