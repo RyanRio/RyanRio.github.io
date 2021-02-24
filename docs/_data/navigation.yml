@@ -2,7 +2,7 @@
   show: true
   link: /
 - name: About
-  show: true
+  show: false
   link: /about/
 - name: Blog
   show: true

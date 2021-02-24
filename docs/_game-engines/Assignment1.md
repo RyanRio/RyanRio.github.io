@@ -1,5 +1,5 @@
 ---
-project_name: Assignment1 - Breakout
+project_name: Project1 - Breakout
 ---
 
 # My first game engines project!

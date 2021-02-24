@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## About me :D!
 
-You can use the [editor on GitHub](https://github.com/RyanRio/RyanRio.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+During my time at Northeastern University I've had the privilege of learning many new pieces of software or software engineering concepts. I've taken or am taking classes such as Object Oriented Design, Algorithms and Data, Programming Languages, Computer Systems, and Building Game Engines, which provided me a solid basis with which to succeed at Advanced Micro Devices on the Shader Compiler team. Currently, I am working on and interested in other compiler and low level systems topics, such as game engines and LLVM research. Please feel free to reach out! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Also I am currently seeking a co-op for the July-December Fall cycle, see contact details below if you are interested in my application! Click [here][1] to download my resume.
 
-### Markdown
+[1]:{{ site.url }}/download/RESUME_2021.pdf
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Site Navigation and Details
 
-```markdown
-Syntax highlighted code block
+Keeping the site pretty lightweight for now, though I think it would be fun in the future to overcomplicate it with some fun integration with my pokedex application. I'm experienced in Django, but currently the site is using Jekyll which I'm loving for just serving this static site. In light of that, there's just going to be a [blog](/blog.html) and a [game engines](/game_engines.html) tab where I make updates about my game engines progress. I am thinking that for now the blog will be the home of anything LLVM-related. Should be fun!
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RyanRio/RyanRio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email: <thermitchellman@gmail.com>
