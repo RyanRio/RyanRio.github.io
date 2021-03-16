@@ -13,4 +13,7 @@
 - name: Assignment1Docs
   show: false
   link: /game-engines-docs/Assignment1_Docs/index.html
+- name: Assignment2Docs
+  show: false
+  link: /game-engines-docs/Assignment2_Docs/index.html
          
